@@ -1,0 +1,19 @@
+{
+  "name": "mkpath-sync-if-not-exists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udondokodoon/mkpath-sync-if-not-exists.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udondokodoon/mkpath-sync-if-not-exists/issues"
+  },
+  "homepage": "https://github.com/udondokodoon/mkpath-sync-if-not-exists#readme"
+}
